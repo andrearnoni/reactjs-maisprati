@@ -54,8 +54,13 @@ function Home() {
             </Link>
           </li>
           <li className="home-list-item">
+            <Link to="/tabs" className="home-link">
+              Tabs Navegáveis
+            </Link>
+          </li>
+          <li className="home-list-item">
             <Link to="/quiz" className="home-link">
-              Quiz Interativo
+              Quiz Interativo (Bônus)
             </Link>
           </li>
         </ul>

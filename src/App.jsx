@@ -10,6 +10,7 @@ import RegistrationForm from "./components/RegistrationForm";
 import Posts from "./components/Posts";
 import ImageGallery from "./components/ImageGallery";
 import CountdownTimer from "./components/CountdownTimer";
+import Tabs from "./components/Tabs";
 import Quiz from "./components/Quiz";
 import BackButton from "./components/BackButton";
 import "./App.css";
@@ -29,6 +30,7 @@ function App() {
         <Route path="/posts" element={<Posts />} />
         <Route path="/image-gallery" element={<ImageGallery />} />
         <Route path="/countdown-timer" element={<CountdownTimer />} />
+        <Route path="/tabs" element={<Tabs />} />
         <Route path="/quiz" element={<Quiz />} />
       </Routes>
     </BrowserRouter>

@@ -13,7 +13,8 @@ Este projeto contém uma série de mini projetos desenvolvidos em React. Cada mi
 7. **Requisição de Dados**: Uma aplicação que exibe uma lista de posts obtidos de uma API pública, com um indicador de carregamento.
 8. **Galeria de Imagens**: Uma galeria de imagens onde o usuário pode visualizar as imagens ampliadas em um modal.
 9. **Timer com Intervalo e Alerta**: Um timer com contagem regressiva e alerta ao finalizar, com botões para pausar e reiniciar.
-10. **Quiz Interativo**: Um quiz de múltipla escolha onde o usuário pode responder perguntas e receber uma pontuação ao final.
+10. **Tabs Navegáveis**: Uma interface de tabs onde cada aba exibe um conteúdo diferente ao ser clicada, com efeito visual que destaca a aba ativa.
+11. **Quiz Interativo (projeto bônus)**: Um quiz de múltipla escolha onde o usuário pode responder perguntas e receber uma pontuação ao final.
 
 ## Como Executar
 
